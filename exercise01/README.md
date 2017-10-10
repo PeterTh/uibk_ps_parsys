@@ -16,7 +16,7 @@ Complete the following steps:
  - Study **OpenMP `parallel` and `for`** and attempt to parallelize the matrix multiplication program using OpenMP. Once again, *apply your benchmarking regimen and **document** your findings*.
 
 **Note:**
-*Every* member of your group should be ready to document your findings and answer question about your solution.
+*Every* member of your group should be ready to explain your methods and findings. All of you should also be able to answer in-depth question about your solution.
 
 
 
