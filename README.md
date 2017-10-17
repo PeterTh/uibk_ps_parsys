@@ -12,6 +12,7 @@ Course Material for the UIBK Parallel Systems Lab will be provided in this repos
  - Tools (Profilers, sequential and parallel)
  
 **All code will be written in C++.**
+(Note: this refers to *application* code - scripts for e.g. performing benchmark runs may be written in any suitable language)
 
 Exercises should be tracked on some **git repository**, and **access to that repo should be provided to Peter**. The exercises need to be completed in time for each weeks' lab.
 
