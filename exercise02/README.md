@@ -12,7 +12,7 @@ It features 3 subtly different implementations of the matrix data structure. The
 
 Complete the following steps:
  - Study the 3 versions. What is the difference between them, and how would expect this to manifest in terms of performance?
- - Use the [**perf** tool](http://www.brendangregg.com/perf.html) (or an equivalent if you are using a non-Linux system) to measure CPU counters for these benchmark versions. Study the set of available counters and try to find ones which you expect to be relevant for this task.
+ - Use the [**perf** tool](http://www.brendangregg.com/perf.html) (or an equivalent if you are using a non-Linux system) to measure CPU counters for these benchmark versions. Study the set of available counters and try to find ones which you expect to be relevant for this task. *Note: for the systems in the university rooms, you should be able to use `perf` located in `/scratch/c703/c703432`*
  - Add the measurement of CPU counters and all 3 configuration versions to your benchmark regimen and document all findings. You should also update the way you perform benchmarks according to the points discussed (e.g. multiple runs, median calculation, etc.).
 
 ### Part 2
