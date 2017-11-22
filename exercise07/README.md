@@ -4,7 +4,7 @@ The goal of this exercise is to implement, optimize, parallelize and benchmark 1
 
 The programs should support setting arbitrary boundary conditions (2 for 1D, 4 for 2D, 6 for 3D), and iterate until the rate of overall change in the system falls below some epsilon value.
 
-**The total iteration time should be measured.** Parallelization should occur across the update steps for each cell.
+**The total iteration time should be measured.** Parallelization should occur across the update steps for each cell. *For this exercise, implement shared memory parallelization using OpenMP.*
 
 ## Unit Testing
 Your program and its individual components should be unit tested. 
