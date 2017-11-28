@@ -1,6 +1,6 @@
 # Exercise 8
 
-This exercise consist of three independent tasks:
+This exercise consists of three independent tasks:
 1. Measure the performance of your shared memory 2D stencil algorithm on a fixed baseline, for comparison to the other groups.
 2. Create a distributed memory parallel version (using MPI) of the Monte Carlo estimator for pi that was previously implemented for shared memory.
 3. Create an MPI version of the 1D, 2D and 3D stencil algorithm.
