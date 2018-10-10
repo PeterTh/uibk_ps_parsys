@@ -1,4 +1,4 @@
-# Parallel Systems Lab (Winter Semester 2017/18)
+# Parallel Systems Lab (Winter Semester 2018/19)
 
 Course Material for the UIBK Parallel Systems Lab will be provided in this repository.
 
@@ -8,7 +8,6 @@ Course Material for the UIBK Parallel Systems Lab will be provided in this repos
  - Performance-oriented programming
  - Correct benchmarking
  - Distributed memory parallelization (MPI)
- - Dependence analysis (Real codes)
  - Tools (Profilers, sequential and parallel)
  
 **All code will be written in C++.**
