@@ -24,7 +24,7 @@ Benchmark using this setup:
 With 1, 2, 4 and 8 threads on a single node of the cluster.
 
 ## LCC2
-All benchmarks should be performed on the LCC2 cluster. *Please make sure that your benchmarking runs do not take more than 1 minute at most.* Shorter runs are preferable.
+All benchmarks should be performed on the LCC2 cluster. *Please try to make sure that your individual benchmarking runs do not take more than 1 minute.* Shorter runs are preferable.
 
 ## General Note
 *Every* member of your group should be ready to explain your methods and findings. All of you should also be able to answer in-depth question about the problem studied.
